@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 1527408474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Check Translation Management Functions</source>
+          <target>Probar funciones admin. traducc. cheque</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - ReportDataItem 3581132344 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENU,ENC,FRC,ESM</source>
+          <target>ENU,ENC,FRC,ESM</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - ReportDataItem TestLanguage - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opciones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 4240445951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Option</source>
+          <target>Opción prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control TestOption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 4240445951 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Both Amounts and Dates,Amounts Only,Dates Only</source>
+          <target>Ambos importes y fechas,sólo importes,sólo fechas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control TestOption - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 3581132344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Language</source>
+          <target>Idioma prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control TestLanguage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 3581132344 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ENU,ENC,FRC,ESM</source>
+          <target>ENU,ENC,FRC,ESM</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control TestLanguage - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 3647699776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Currency Code</source>
+          <target>Cód. divisa prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control TestCurrencyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - Control 2758623758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date to Test</source>
+          <target>Fecha para prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - Control TestDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zero</source>
+          <target>Cero</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One</source>
+          <target>Un</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Two</source>
+          <target>Dos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Three</source>
+          <target>Tres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Four</source>
+          <target>Cuatro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Five</source>
+          <target>Cinco</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Six</source>
+          <target>Seis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seven</source>
+          <target>Siete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eight</source>
+          <target>Ocho</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nine</source>
+          <target>Nueve</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ten</source>
+          <target>Diez</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eleven</source>
+          <target>Once</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twelve</source>
+          <target>Doce</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thirteen</source>
+          <target>Trece</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fourteen</source>
+          <target>Catorce</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fifteen</source>
+          <target>Quince</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sixteen</source>
+          <target>Dieciseis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seventeen</source>
+          <target>Diecisiete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eighteen</source>
+          <target>Dieciocho</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nineteen</source>
+          <target>Diecinueve</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty</source>
+          <target>Veinte</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thirty</source>
+          <target>Treinta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forty</source>
+          <target>Cuarenta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fifty</source>
+          <target>Cincuenta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sixty</source>
+          <target>Sesenta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seventy</source>
+          <target>Setenta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eighty</source>
+          <target>Ochenta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text026</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3853762076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ninety</source>
+          <target>Noventa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text027</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2747277865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hundred</source>
+          <target>Cien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text028</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3384974482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>and</source>
+          <target>y</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text029</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 510963145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thousand</source>
+          <target>Mil</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text031</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 4168233824" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Million</source>
+          <target>Millones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text032</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3530537207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billion</source>
+          <target>Mil Millones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text033</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3061749613" size-unit="char" translate="yes" xml:space="preserve">
+          <source>/100</source>
+          <target>/100  M.N.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text035</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2424052996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One Million</source>
+          <target>Un Millon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text036</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2042100300" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty One</source>
+          <target>Veintiun</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text041</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2679796917" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Two</source>
+          <target>Veintidos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text042</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3317493534" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Three</source>
+          <target>Veintitres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text043</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3148584511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Four</source>
+          <target>Veinticuatro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text044</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3786281128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Five</source>
+          <target>Veinticinco</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text045</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 129010449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Six</source>
+          <target>Veintiseis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text046</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 766707066" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Seven</source>
+          <target>Veintisiete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text047</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2211009323" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Eight</source>
+          <target>Veintiocho</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text048</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2848705940" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Twenty Nine</source>
+          <target>Veintinueve</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text049</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 4269661899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One Hundred</source>
+          <target>Ciento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text051</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1887784454" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Two Hundred</source>
+          <target>Doscientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text052</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1250087837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Three Hundred</source>
+          <target>Trescientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text053</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2356572048" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Four Hundred</source>
+          <target>Cuatrocientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text054</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1718875431" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Five Hundred</source>
+          <target>Quinientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text055</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3631965282" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Six Hundred</source>
+          <target>Seiscientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text056</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2994268665" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seven Hundred</source>
+          <target>Setecientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text057</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 4100752876" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eight Hundred</source>
+          <target>Ochocientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text058</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3463056259" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nine Hundred</source>
+          <target>Novecientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text059</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3669593336" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Code %1 is not implemented.</source>
+          <target>El cód. idioma %1 no está implementado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text100</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3031896719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 results in a written number that is too long.</source>
+          <target>Los resultados de %1 son un número escrito demasiado largo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text101</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 650019274" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is too large to convert to text.</source>
+          <target>%1 es demasiado grande para convertir a texto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text102</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 12322657" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 language is not enabled.</source>
+          <target>Idioma %1 no está activado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text103</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1925412508" size-unit="char" translate="yes" xml:space="preserve">
+          <source>****</source>
+          <target>****</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text104</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2563109125" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MM DD YYYY</source>
+          <target>MM DD AAAA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text107</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 181231680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DD MM YYYY</source>
+          <target>DD MM AAAA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text108</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3838502359" size-unit="char" translate="yes" xml:space="preserve">
+          <source>YYYY MM DD</source>
+          <target>AAAA MM DD</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text109</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3393061063" size-unit="char" translate="yes" xml:space="preserve">
+          <source>US dollars</source>
+          <target>Pesos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text110</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 4030757680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mexican pesos</source>
+          <target>Pesos mexicanos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text111</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 373487001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Canadian dollars</source>
+          <target>Dólares canadienses</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType Text112</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 163708076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test of Check Translation Functions</source>
+          <target>Funciones de traducción prueba de cheque</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType CheckTranslationFunctionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 4038925874" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Date</source>
+          <target>Fecha prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType TestDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3923222788" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Language</source>
+          <target>Idioma prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType TestLanguageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 935040188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Currency Code</source>
+          <target>Cód. divisa prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType TestCurrencyCodeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 1402915711" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date to Test</source>
+          <target>Fecha para prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType DateToTestCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3943545198" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount In Words</source>
+          <target>Importe en palabras</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType AmountInWordsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2765897785" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Date Indicator</source>
+          <target>Comprobar indicador fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType TestDateIndicatorCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 3531501589" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Date</source>
+          <target>Fecha cheque</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType TestDateTextCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1527408474 - NamedType 2160223887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Date Separator</source>
+          <target>Comprobar separador fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Check Translation Management - NamedType DateSeparatorCaptionLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

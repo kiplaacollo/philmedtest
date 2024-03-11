@@ -1,0 +1,27 @@
+{
+  "id": "3dc37309-d1f2-4397-8951-a2618bd6ed0b",
+  "name": "Philmed_Ltd",
+  "publisher": "On-IT Ltd",
+  "version": "22.2.0.0",
+  "brief": "",
+  "description": "This Package is created for Philmed Customization for Philmed Project.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "22.0.57579.0",
+  "application": "22.2.56969.57617",
+  
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50249
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "10.0",
+  "target": "OnPrem"
+}

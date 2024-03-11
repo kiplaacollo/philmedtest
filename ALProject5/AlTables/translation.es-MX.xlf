@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3694819922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Header</source>
+          <target>Cab. transferencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nº</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 520660911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from Code</source>
+          <target>Transfer. desde-cód.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3755656249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from Name</source>
+          <target>Transfer. desde-nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3692351575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from Name 2</source>
+          <target>Transfer. desde-nombre 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1277114954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from Address</source>
+          <target>Transfer. desde-dirección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2343213752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from Address 2</source>
+          <target>Transfer. desde-Colonia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2582901159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from ZIP Code</source>
+          <target>Transfer. desde-C.P.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 953831401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from City</source>
+          <target>Transfer. desde-Municipio/Ciudad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2729005590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from State</source>
+          <target>Transfer. desde-provincia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3562769272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trsf.-from Country/Region Code</source>
+          <target>Transfer. desde-cód.país/región</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Trsf.-from Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 324034516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Code</source>
+          <target>Transfer. a-cód.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3242223630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Name</source>
+          <target>Transfer. a-nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 460356348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Name 2</source>
+          <target>Transfer. a-nombre 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1917146997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Address</source>
+          <target>Transfer. a-dirección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1582495123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Address 2</source>
+          <target>Transfer. a-Colonia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 476768916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to ZIP Code</source>
+          <target>Transfer. a-c.p.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1730839582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to City</source>
+          <target>Transfer. a-Municipio/Ciudad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1033824321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to State</source>
+          <target>Transfer. a-provincia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 926423283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trsf.-to Country/Region Code</source>
+          <target>Transfer. a-cód.país/región</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Trsf.-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Fecha registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 4112852368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Fecha envío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 358029708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt Date</source>
+          <target>Fecha recepción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Receipt Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Released</source>
+          <target>Abierto,Lanzado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comentario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <target>Cód. dim. acceso dir. 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <target>Cód. dim. acceso dir. 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2307065988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In-Transit Code</source>
+          <target>Cód. en tránsito</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field In-Transit Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Nos. serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3350551815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Shipment No.</source>
+          <target>Nº último envío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Last Shipment No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 4005139219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Receipt No.</source>
+          <target>Nº última recep.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Last Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2972337268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-from Contact</source>
+          <target>Transfer. desde-contacto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-from Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1860394327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Contact</source>
+          <target>Transfer. a-contacto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transfer-to Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>Nº documento externo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 4045368290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Agent Code</source>
+          <target>Cód. transportista</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipping Agent Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2730811709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Agent Service Code</source>
+          <target>Cód. servicio transportista</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipping Agent Service Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1913523417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Time</source>
+          <target>Tiempo envío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipping Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2205104606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method Code</source>
+          <target>Cód. método de envío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipment Method Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target>Naturaleza transacción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3193866272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport Method</source>
+          <target>Modo transporte</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transport Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3814925297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry/Exit Point</source>
+          <target>Puerto/Aeropuerto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Entry/Exit Point - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3532935625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Area</source>
+          <target>Cód. provincia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1267997203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Specification</source>
+          <target>Especificación transacción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Transaction Specification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <target>Id. grupo dimensiones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3744117490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Advice</source>
+          <target>Aviso envío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipping Advice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3744117490 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partial,Complete</source>
+          <target>Parcial,Completo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Shipping Advice - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 2315465834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting from Whse. Ref.</source>
+          <target>Regis. desde almac. ref.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Posting from Whse. Ref. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3136438825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completely Shipped</source>
+          <target>Enviado completamente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Completely Shipped - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 337474445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completely Received</source>
+          <target>Recibido completamente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Completely Received - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 4277715959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Filter</source>
+          <target>Filtro almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Location Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 1562764323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound Whse. Handling Time</source>
+          <target>Tiempo manip. alm. salida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Outbound Whse. Handling Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3111468436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inbound Whse. Handling Time</source>
+          <target>Tiempo manip. alm. entrada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Inbound Whse. Handling Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Filtro fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - Field 3294270728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned User ID</source>
+          <target>Id. usuario asignado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - Field Assigned User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot rename a %1.</source>
+          <target>No se puede cambiar el nombre a %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 and %2 cannot be the same in %3 %4.</source>
+          <target>%1 y %2 no puede ser lo mismo en %3 %4.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to change %1?</source>
+          <target>¿Confirma que desea cambiar %1?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The transfer order %1 has been deleted.</source>
+          <target>El ped.transfer. %1 ha sido borrado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 3694819922 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You may have changed a dimension.\\Do you want to update the lines?</source>
+          <target>Puede que haya cambiado una dimensión.\\¿Desea actualizar las líneas?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Transfer Headerr - NamedType Text007</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

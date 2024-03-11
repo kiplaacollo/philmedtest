@@ -1,0 +1,78 @@
+report 50108 "Move Till Pty Branch Entries"
+{
+    ApplicationArea = All;
+    Caption = 'Move Till and Pty Branch Entries';
+    UsageCategory = ReportsAndAnalysis;
+    ProcessingOnly = true;
+    Permissions = TableData "Bank Account Ledger Entry" = rimd, TableData "Detailed Cust. Ledg. Entry" = rimd, TableData "G/L Entry" = rimd;
+
+    dataset
+    {
+        dataitem(CustLedgerEntry; "Cust. Ledger Entry")
+        {
+            DataItemTableView = WHERE("Journal Batch Name" = FILTER('CUSOPENBAL' | 'CUSTOPNREV'), "Posting Date" = filter(<= '08012022D'), Open = CONST(true));
+            RequestFilterFields = "Posting Date", "Global Dimension 1 Code", "Customer No.", "Document No.";
+            RequestFilterHeading = 'Reset Opening Balances';
+            trigger OnAfterGetRecord()
+            var
+                DetailedCustLedger: Record "Detailed Cust. Ledg. Entry";
+                GLEntry: Record "G/L Entry";
+            begin
+                DetailedCustLedger.Reset();
+                DetailedCustLedger.SetRange("Cust. Ledger Entry No.", CustLedgerEntry."Entry No.");
+                DetailedCustLedger.SetRange("Document No.", CustLedgerEntry."Document No.");
+                DetailedCustLedger.SetRange("Document Type", CustLedgerEntry."Document Type");
+                DetailedCustLedger.SetRange("Entry Type", DetailedCustLedger."Entry Type"::"Initial Entry");
+                if DetailedCustLedger.FindFirst() then begin
+                    DetailedCustLedger.Amount := 0;
+                    DetailedCustLedger."Amount (LCY)" := 0;
+                    DetailedCustLedger."Debit Amount" := 0;
+                    DetailedCustLedger."Debit Amount (LCY)" := 0;
+                    DetailedCustLedger."Credit Amount" := 0;
+                    DetailedCustLedger."Credit Amount (LCY)" := 0;
+                    DetailedCustLedger.Modify()
+                end;
+
+                //G/L Entry Reset
+                GLEntry.Reset();
+                GLEntry.SetRange("Document No.", CustLedgerEntry."Document No.");
+                GLEntry.SetRange("Posting Date", CustLedgerEntry."Posting Date");
+                GLEntry.SetRange("Document Type", CustLedgerEntry."Document Type");
+                If GLEntry.FindSet() then
+                    repeat
+                        GLEntry.Amount := 0;
+                        GLEntry."Debit Amount" := 0;
+                        GLEntry."Credit Amount" := 0;
+                        GLEntry.Modify();
+                    until GLEntry.Next() = 0;
+
+                //Customer Ledger Entry
+                CustLedgerEntry.Reversed := true;
+                CustLedgerEntry."Sales (LCY)" := 0;
+                CustLedgerEntry."Profit (LCY)" := 0;
+                CustLedgerEntry.Open := False;
+                CustLedgerEntry.Modify();
+
+            end;
+        }
+    }
+    requestpage
+    {
+        layout
+        {
+            area(content)
+            {
+                group(GroupName)
+                {
+
+                }
+            }
+        }
+        actions
+        {
+            area(processing)
+            {
+            }
+        }
+    }
+}
